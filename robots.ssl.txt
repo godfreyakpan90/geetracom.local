@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://geetracom.local/sitemap_index.xml
+Sitemap: https://geetra.com/sitemap_index.xml
